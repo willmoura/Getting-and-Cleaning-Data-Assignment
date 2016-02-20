@@ -4,8 +4,11 @@ Coursera Course: Getting and Cleaning Data
 Assignment Submission Files
 
 run_analysis.R
+
 README.md
+
 CookBook.md
+
 Instructions
 
 Checkout the code using 'git checkout https://github.com/rwstang/Getting-and-Cleaning-Data-Assignment.git YOURDIRECTORY'
